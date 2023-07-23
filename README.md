@@ -39,7 +39,7 @@ Choose the appropriate installer for your system:
 - macOS arm64: `Stem-Launcher-setup-VERSION-arm64.dmg`
 - Linux x64: `Stem-Launcher-setup-VERSION.AppImage`
 
-#Conclusion
+## Conclusion
 
 Thank you for using Stem Launcher! We hope you enjoy the seamless experience of launching and playing Minecraft with our launcher. If you encounter any issues or have suggestions for improvement, feel free to share them with us. Happy gaming!
 
