@@ -1,0 +1,21 @@
+{
+    "clientid": "896619318555586571",
+    "state": "El mejor launcher para tus proyectos!",
+    "instance": false,
+    "largeimagekey": "minecraft",
+    "largeimagetext": "Minecraft Java",
+    "smallimagekey": "visualstudio",
+    "smallimagetext": "Visual Studio Code",
+    "buttons": [
+        {
+            "label": "StemLauncher",
+            "url": "https://github.com/StemDev0110/StemLauncher"
+        },
+        {
+            "label": "Sobre el Creador",
+            "url": "https://github.com/StemDev0110"
+        }
+
+    ]
+
+}
