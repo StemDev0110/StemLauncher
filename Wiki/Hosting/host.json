@@ -1,0 +1,10 @@
+{
+    "launcher": "forge",
+    "versionmc": "1.16.5",
+    "version": "1.0",
+    "bg-images": [],
+    "root": ".minecraft",
+    "files": "url de descarga directa a archivo.zip el cual sera extraido en .minecraft",
+    "only-onlinemode": true,
+    "theme": "default"
+}
