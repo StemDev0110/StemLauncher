@@ -6,5 +6,8 @@
     "root": ".minecraft",
     "files": "url de descarga directa a archivo.zip el cual sera extraido en .minecraft",
     "only-onlinemode": true,
-    "theme": "default"
+    "theme": {
+        "default": true
+    },
+    "color": "default",
 }
